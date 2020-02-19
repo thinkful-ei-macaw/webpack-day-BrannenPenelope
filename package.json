@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-macaw/webpack-day-BrannenPenelope/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-BrannenPenelope#readme"
+  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-BrannenPenelope#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
