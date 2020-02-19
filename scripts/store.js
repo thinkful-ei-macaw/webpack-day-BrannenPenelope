@@ -4,7 +4,7 @@ const items = [];
 let hideCheckeditems = false;
 
 const findById = function (id) {
-  return this.items.find(currentItem => currentItem.id === id);
+  return store.items.find(currentItem => currentItem.id === id);
 };
 
 const addItem = function (name) {
